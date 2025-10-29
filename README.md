@@ -86,7 +86,6 @@ focusing on data ingestion, transformation, and governance that drive business i
 📊 *“Clean data enables smart decisions.”*  
 🇧🇷 *“Dados bem estruturados geram decisões inteligentes.”*
 )  
-- 📧 **thonny.10@gmail.com**  
 
 ---
 
