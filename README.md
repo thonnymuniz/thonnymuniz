@@ -79,7 +79,7 @@ focusing on data ingestion, transformation, and governance that drive business i
 
 ## 🌍 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/thonnytonzarmuniz/)  
-- 📧 **thonnymuniz@gmail.com**  
+- 📧 **thonny.10@gmail.com**  
 
 ---
 
