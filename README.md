@@ -1,93 +1,52 @@
-# 👋 Hello, I'm Thonny Tonzar Muniz  
+# 👋 Hi, I'm Thonny Tonzar Muniz
 
-🎯 **Data Engineer** at Deloitte  
-🎓 **MBA in Data Engineering** — Mackenzie Presbyterian University  
-💡 Passionate about data, automation, and scalable cloud solutions  
+🎯 **Data Engineer** | Python • PySpark • Azure • Databricks  
+📍 Mogi das Cruzes, São Paulo – Brazil  
+🔗 [LinkedIn](https://www.linkedin.com/in/thonny-muniz/)
 
 ---
 
-## 🚀 About Me  
-I'm a **Data Engineer** with experience building scalable data pipelines and analytics platforms.  
-I work daily with **Python, PySpark, Azure Data Lake, Databricks, Synapse, and Power BI**,  
-focusing on data ingestion, transformation, and governance that drive business intelligence and strategic decisions.  
-
-📍 Based in **Mogi das Cruzes, SP — Brazil**  
-🎯 Currently improving my developer skills and cloud architecture knowledge.  
+## 🚀 Overview  
+I’m a data-driven professional passionate about building scalable data solutions that turn raw information into actionable insights.  
+With experience in cloud data platforms and automation, I specialize in developing robust data pipelines and optimizing data architectures for performance, reliability, and compliance.
 
 ---
 
 ## 🧰 Tech Stack  
 **Languages:** Python, SQL, PySpark  
-**Cloud & Data:** Azure (Data Lake, Synapse, Data Factory), Databricks, Oracle Cloud  
-**Tools:** Power BI, Git, Docker, Airflow  
-**Databases:** MySQL, PostgreSQL, Delta Lake  
+**Cloud & Platforms:** Microsoft Azure (Data Lake, Synapse, Data Factory), Databricks, Delta Lake  
+**Tools & Frameworks:** Docker, Git, FastAPI, Airflow, Power BI  
+**Databases & Formats:** MySQL, PostgreSQL, Parquet, Delta Lake  
 
 ---
 
-## 📜 Certifications  
-- 🎓 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** *(Valid until Oct 3, 2027)*  
-- 💠 **Microsoft Certified: Azure Data Fundamentals (DP-900)** *(in progress)*  
-
----
-
-## 📂 Portfolio  
-- 🧱 [Data Engineering Portfolio](https://github.com/thonnymuniz/portfolio-data-engineer-thonny)  
-- ⚙️ Real projects using **Python, ETL, APIs, and CI/CD**  
-- 🧾 Includes **FastAPI**, **Parquet Pipelines**, **Pytest**, and **GitHub Actions**  
-
----
-
-## 🌍 Connect with Me  
-- 💼 [LinkedIn](# 👋 Hello, I'm Thonny Tonzar Muniz  
-
-🎯 **Data Engineer** at Deloitte  
-🎓 **MBA in Data Engineering** — Mackenzie Presbyterian University  
-💡 Passionate about data, automation, and scalable cloud solutions  
-
----
-
-## 🚀 About Me  
-I'm a **Data Engineer** with experience building scalable data pipelines and analytics platforms.  
-I work daily with **Python, PySpark, Azure Data Lake, Databricks, Synapse, and Power BI**,  
-focusing on data ingestion, transformation, and governance that drive business intelligence and strategic decisions.  
-
-📍 Based in **Mogi das Cruzes, SP — Brazil**  
-🎯 Currently improving my developer skills and cloud architecture knowledge.  
-
----
-
-## 🧰 Tech Stack  
-**Languages:** Python, SQL, PySpark  
-**Cloud & Data:** Azure (Data Lake, Synapse, Data Factory), Databricks, Oracle Cloud  
-**Tools:** Power BI, Git, Docker, Airflow  
-**Databases:** MySQL, PostgreSQL, Delta Lake  
-
----
-
-## 📜 Certifications  
-- 🎓 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** *(Valid until Oct 3, 2027)*  
-- 💠 **Microsoft Certified: Azure Data Fundamentals (DP-900)** *(in progress)*  
+## 🎓 Education & Certifications  
+- 🎓 **MBA in Data Engineering** — Mackenzie Presbyterian University  
+- 🧩 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** — valid until Oct 2027  
+- 💠 Preparing for **Microsoft Azure Data Fundamentals (DP-900)**  
+- 🚧 Upcoming: **Azure Data Engineer (DP-203)** and **AWS Certified Data Engineer – Associate**
 
 ---
 
 ## 📂 Portfolio  
 - 🧱 [Data Engineering Portfolio](https://github.com/thonnymuniz/portfolio-data-engineer-thonny)  
-- ⚙️ Real projects using **Python, ETL, APIs, and CI/CD**  
-- 🧾 Includes **FastAPI**, **Parquet Pipelines**, **Pytest**, and **GitHub Actions**  
+  End-to-end ETL pipelines, APIs, and automation projects.  
+- 🔍 Upcoming: **Data Science, LLM, and Neural Network** projects from my MBA, plus the **Unilever Data Analysis** case.  
+- 🌐 Continuous learning projects shared through notebooks, dashboards, and cloud pipelines.
 
 ---
 
-## 🌍 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/thonnytonzarmuniz/)  
-- 📧 **thonny.10@gmail.com**  
+## 🌱 What I’m Focusing On  
+- Strengthening expertise in **cloud data architecture** and **data governance**.  
+- Building and documenting real-world data pipelines in **Azure + Databricks**.  
+- Exploring **AI integration** with data engineering workflows (LLMs + data ops).  
+- Contributing to projects that merge data, automation, and business value.
 
 ---
 
-📊 *“Clean data enables smart decisions.”*  
-🇧🇷 *“Dados bem estruturados geram decisões inteligentes.”*
-)  
+## 📬 Let’s Connect  
+- **LinkedIn:** [linkedin.com/in/thonny-muniz](https://www.linkedin.com/in/thonny-muniz/)  
+- **GitHub:** [github.com/thonnymuniz](https://github.com/thonnymuniz)  
+- **Email:** thonny.10@gmail.com  
 
----
-
-📊 *“Clean data enables smart decisions.”*  
-🇧🇷 *“Dados bem estruturados geram decisões inteligentes.”*
+> “Structured data drives intelligent decisions.”  
