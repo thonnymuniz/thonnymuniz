@@ -1,52 +1,77 @@
-# 👋 Hi, I'm Thonny Tonzar Muniz
+# 👋 Hi, I'm Thonny Tonzar Muniz  
 
-🎯 **Data Engineer** | Python • PySpark • Azure • Databricks  
+🎯 **Data Engineer** | Azure • AWS • Databricks • Python • PySpark • DevOps  
 📍 Mogi das Cruzes, São Paulo – Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/thonny-muniz/)
+🔗 [LinkedIn](https://www.linkedin.com/in/thonny-muniz)  
 
 ---
 
-## 🚀 Overview  
-I’m a data-driven professional passionate about building scalable data solutions that turn raw information into actionable insights.  
-With experience in cloud data platforms and automation, I specialize in developing robust data pipelines and optimizing data architectures for performance, reliability, and compliance.
+## 🚀 About Me  
+I’m a **Data Engineer** with expertise in scalable, secure, and AI-ready data platforms — experienced in designing, building, and maintaining modern **data lakehouse architectures** on Azure and AWS.  
+I focus on transforming raw data into structured, governed, and value-driven assets that empower analytical and business decisions.  
+
+Currently at **Deloitte**, I work on a large-scale data documentation and mapping project, involving:  
+- SQL code analysis and reverse engineering,  
+- variable mapping and transformation lineage,  
+- metadata standardization and data governance enforcement (LGPD compliance).  
+
+I’m in the final semester of my **MBA in Data Engineering**, focused on:  
+- **Azure & AWS** cloud architecture,  
+- **DataOps and DevOps** for analytics pipelines,  
+- **Machine Learning, Deep Learning, and LLMs**,  
+- **Data Visualization** (Power BI, Tableau) and **Advanced Analytics**.
 
 ---
 
 ## 🧰 Tech Stack  
-**Languages:** Python, SQL, PySpark  
-**Cloud & Platforms:** Microsoft Azure (Data Lake, Synapse, Data Factory), Databricks, Delta Lake  
-**Tools & Frameworks:** Docker, Git, FastAPI, Airflow, Power BI  
-**Databases & Formats:** MySQL, PostgreSQL, Parquet, Delta Lake  
+
+**Languages:**  
+Python (Pandas, PySpark), SQL  
+
+**Cloud Platforms:**  
+Azure (Data Lake, Synapse, Data Factory, Databricks) | AWS (S3, Glue, Athena, Redshift concepts)  
+
+**Tools & Frameworks:**  
+Docker, FastAPI, Terraform, GitHub Actions, Power BI, Tableau  
+
+**Practices & Domains:**  
+ETL / ELT Pipelines • Data Lakehouse Design • Data Governance • LGPD • CI/CD • Cloud Automation • DevOps • DataOps  
 
 ---
 
 ## 🎓 Education & Certifications  
+
 - 🎓 **MBA in Data Engineering** — Mackenzie Presbyterian University  
-- 🧩 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** — valid until Oct 2027  
-- 💠 Preparing for **Microsoft Azure Data Fundamentals (DP-900)**  
-- 🚧 Upcoming: **Azure Data Engineer (DP-203)** and **AWS Certified Data Engineer – Associate**
+- 🧩 **Oracle Cloud Infrastructure Foundations Associate (2025)** — Valid until Oct 2027  
+- 💠 Preparing for **Azure Data Fundamentals (DP-900)**  
+- 🚧 Upcoming: **Azure Data Engineer (DP-203)** and **AWS Certified Data Engineer – Associate**  
 
 ---
 
 ## 📂 Portfolio  
+
 - 🧱 [Data Engineering Portfolio](https://github.com/thonnymuniz/portfolio-data-engineer-thonny)  
-  End-to-end ETL pipelines, APIs, and automation projects.  
-- 🔍 Upcoming: **Data Science, LLM, and Neural Network** projects from my MBA, plus the **Unilever Data Analysis** case.  
-- 🌐 Continuous learning projects shared through notebooks, dashboards, and cloud pipelines.
+  Real projects covering ETL pipelines, FastAPI services, Airflow orchestration, and Dockerized environments.  
+
+- 🔍 Upcoming repositories:  
+  - Machine Learning and LLM experiments from MBA projects  
+  - Neural Network implementation and the **Unilever Data Analysis Case Study**  
 
 ---
 
-## 🌱 What I’m Focusing On  
-- Strengthening expertise in **cloud data architecture** and **data governance**.  
-- Building and documenting real-world data pipelines in **Azure + Databricks**.  
-- Exploring **AI integration** with data engineering workflows (LLMs + data ops).  
-- Contributing to projects that merge data, automation, and business value.
+## 🌱 Current Focus  
+
+- Building data solutions integrating **Azure and AWS ecosystems**  
+- Enhancing DevOps and DataOps automation for deployment and monitoring  
+- Studying **LLMs and AI integration** into data engineering workflows  
+- Expanding expertise in **data architecture and governance frameworks**  
 
 ---
 
-## 📬 Let’s Connect  
-- **LinkedIn:** [linkedin.com/in/thonny-muniz](https://www.linkedin.com/in/thonny-muniz/)  
-- **GitHub:** [github.com/thonnymuniz](https://github.com/thonnymuniz)  
-- **Email:** thonny.10@gmail.com  
+## 📬 Connect with Me  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thonny-muniz)  
+- 🧰 [GitHub](https://github.com/thonnymuniz)  
+- ✉️ thonny.10@gmail.com  
 
 > “Structured data drives intelligent decisions.”  
