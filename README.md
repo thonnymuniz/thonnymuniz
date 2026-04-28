@@ -1,58 +1,99 @@
-# 👋 Hi, I'm Thonny Tonzar Muniz  
+# 👋 Hi, I'm Thonny Muniz  
 
-🎯 **Data Engineer** | Azure • AWS • Databricks • Python • PySpark • DevOps  
-📍 Mogi das Cruzes, São Paulo – Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/thonny-muniz)  
-
----
-
-## 🚀 About Me  
-I’m a **Data Engineer** with expertise in scalable, secure, and AI-ready data platforms — experienced in designing, building, and maintaining modern **data lakehouse architectures** on Azure and AWS.  
-I focus on transforming raw data into structured, governed, and value-driven assets that empower analytical and business decisions.  
-
-Currently at **Deloitte**, I work on a large-scale data documentation and mapping project, involving:  
-- SQL code analysis and reverse engineering,  
-- variable mapping and transformation lineage,  
-- metadata standardization and data governance enforcement (LGPD compliance).  
-
-I’m in the final semester of my **MBA in Data Engineering**, focused on:  
-- **Azure & AWS** cloud architecture,  
-- **DataOps and DevOps** for analytics pipelines,  
-- **Machine Learning, Deep Learning, and LLMs**,  
-- **Data Visualization** (Power BI, Tableau) and **Advanced Analytics**.
+🚀 **Data Engineer | Cloud Data Platforms | Azure & AWS | Databricks | PySpark**  
+📍 Brazil (Open to international opportunities & remote roles)  
+🔗 [LinkedIn](https://www.linkedin.com/in/thonny-muniz)
 
 ---
 
-## 🧰 Tech Stack  
+## 💡 About Me  
 
-**Languages:**  
-Python (Pandas, PySpark), SQL  
+I’m a Data Engineer focused on designing and scaling **cloud-based data platforms** that transform raw data into reliable, governed, and business-ready assets.  
 
-**Cloud Platforms:**  
-Azure (Data Lake, Synapse, Data Factory, Databricks) | AWS (S3, Glue, Athena, Redshift concepts) | GCP (Bigquery, DBT, CloudRun, Cloud Storage concepts) 
+My experience includes building and optimizing **data pipelines, lakehouse architectures, and data governance frameworks** in enterprise environments. I work with both **Azure and AWS ecosystems**, applying best practices in **DataOps, DevOps, and cloud automation**.
 
-**Tools & Frameworks:**  
-Docker, FastAPI, Terraform, GitHub Actions, Power BI, Tableau, Looker  
+Currently at **Deloitte**, I contribute to a large-scale data initiative involving:  
+- Reverse engineering complex SQL-based data pipelines  
+- Mapping data lineage and transformations across systems  
+- Standardizing metadata and enforcing governance policies (LGPD compliance)  
+- Improving data transparency and reliability for analytics consumption  
 
-**Practices & Domains:**  
-ETL / ELT Pipelines • Data Lakehouse Design • Data Governance • LGPD • CI/CD • Cloud Automation • DevOps • DataOps  
+🎯 My goal is to build **scalable, high-performance data systems** that support advanced analytics and AI-driven solutions.
 
 ---
 
-## 🎓 Education & Certifications  
+## 🧰 Core Tech Stack  
 
-- 🎓 **MBA in Data Engineering** — Mackenzie Presbyterian University  
-- 🧩 **Oracle Cloud Infrastructure Foundations Associate (2025)** — Valid until Oct 2027  
-- 💠 Preparing for **Azure Data Fundamentals (DP-900)**  
-- 🚧 Upcoming: **Azure Data Engineer (DP-203)** and **AWS Certified Data Engineer – Associate**  
+**Languages & Processing**  
+- Python (Pandas, PySpark)  
+- SQL (Advanced querying, optimization, and data modeling)
+
+**Cloud & Data Platforms**  
+- Azure: Data Factory, Synapse, Data Lake, Databricks  
+- AWS: S3, Glue, Athena (practical experience)  
+- GCP: BigQuery, Cloud Storage, Cloud Run (working knowledge)
+
+**Data Engineering & Orchestration**  
+- Apache Spark / PySpark  
+- ETL / ELT pipelines  
+- Data Lakehouse architecture  
+
+**DevOps & DataOps**  
+- Docker  
+- Terraform  
+- GitHub Actions (CI/CD)  
+
+**Analytics & BI**  
+- Power BI, Tableau, Looker  
 
 ---
 
 ## 📂 Portfolio  
 
-- 🧱 [Data Engineering Portfolio](https://github.com/thonnymuniz/portfolio-data-engineer-thonny)  
-  Real projects covering ETL pipelines, FastAPI services, Airflow orchestration, and Dockerized environments.  
+🔗 [Data Engineering Portfolio](https://github.com/thonnymuniz/portfolio-data-engineer-thonny)
 
+Projects include:  
+- End-to-end ETL pipelines using PySpark and orchestration tools  
+- REST APIs built with FastAPI for data exposure  
+- Containerized environments using Docker  
+- Data workflows designed for scalability and maintainability  
+
+🚧 Upcoming:  
+- Machine Learning & LLM projects (MBA)  
+- Neural networks implementation  
+- Real-world case study: Unilever data analysis  
+
+---
+
+## 🎓 Education & Certifications  
+
+- 🎓 MBA in Data Engineering — Mackenzie Presbyterian University (Final semester)  
+- 🧩 Oracle Cloud Infrastructure Foundations Associate (2025)  
+- 💠 Preparing for Azure Data Fundamentals (DP-900)  
+- 🚧 Next:  
+  - Azure Data Engineer Associate (DP-203)  
+  - AWS Certified Data Engineer – Associate  
+
+---
+
+## 🌱 Current Focus  
+
+- Designing multi-cloud data architectures (Azure + AWS)  
+- Improving DataOps and CI/CD for data pipelines  
+- Applying AI/LLMs in data engineering workflows  
+- Advancing in data governance and scalable architecture patterns  
+
+---
+
+## 📬 संपर्क  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thonny-muniz)  
+- 🧰 [GitHub](https://github.com/thonnymuniz)  
+- ✉️ thonny.10@gmail.com  
+
+---
+
+> "Well-designed data platforms enable better decisions, faster."
 - 🔍 Upcoming repositories:  
   - Machine Learning and LLM experiments from MBA projects  
   - Neural Network implementation and the **Unilever Data Analysis Case Study**  
