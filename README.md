@@ -29,10 +29,10 @@ I’m in the final semester of my **MBA in Data Engineering**, focused on:
 Python (Pandas, PySpark), SQL  
 
 **Cloud Platforms:**  
-Azure (Data Lake, Synapse, Data Factory, Databricks) | AWS (S3, Glue, Athena, Redshift concepts)  
+Azure (Data Lake, Synapse, Data Factory, Databricks) | AWS (S3, Glue, Athena, Redshift concepts) | GCP (Bigquery, DBT, CloudRun, Cloud Storage concepts) 
 
 **Tools & Frameworks:**  
-Docker, FastAPI, Terraform, GitHub Actions, Power BI, Tableau  
+Docker, FastAPI, Terraform, GitHub Actions, Power BI, Tableau, Looker  
 
 **Practices & Domains:**  
 ETL / ELT Pipelines • Data Lakehouse Design • Data Governance • LGPD • CI/CD • Cloud Automation • DevOps • DataOps  
